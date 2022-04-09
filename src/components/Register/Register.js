@@ -5,11 +5,11 @@ const Register = () => {
         <div>
             <h2>Please register</h2>
             <form>
-                <input type="text" name="" id="" placeholder='Name'/>
+                <input type="text" placeholder='Name'/>
                 <br />
-                <input type="email" name="" id="" placeholder='Email'/>
+                <input type="email" placeholder='Email'/>
                 <br />
-                <input type="password" name="" id="" placeholder='Password'/>
+                <input type="password" placeholder='Password'/>
                 <br />
                 <input type="submit" value="Register" />
             </form>
